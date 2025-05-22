@@ -28,7 +28,7 @@
 
 <h3 align="left">GitHub Highlights:</h3>
 <div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditishetti&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditishetti&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </div>
 
 <p align="center">

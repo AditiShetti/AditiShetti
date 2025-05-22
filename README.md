@@ -35,11 +35,6 @@
   <img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=aditishetti" alt="GitHub Streak" />
 </p>
 
-</p>
-
-<p align="center">
-  <img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=aditishetti" alt="GitHub Streak" />
-</p>
 
 
 

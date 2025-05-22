@@ -25,11 +25,15 @@
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
+
+<h3 align="left">GitHub Highlights:</h3>
 <div align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditishetti&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=aditishetti&show_icons=true&locale=en" alt="GitHub Stats" />
 </div>
+
+<p align="center">
+  <img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=aditishetti" alt="GitHub Streak" />
+</p>
 
 <p align="center">
   <img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=aditishetti" alt="GitHub Streak" />

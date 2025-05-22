@@ -32,7 +32,7 @@
 </div>
 
 <p align="center">
-  <img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=aditishetti" alt="GitHub Streak" />
+  <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=aditishetti" alt="GitHub Streak" />
 </p>
 
 

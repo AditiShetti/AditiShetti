@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aditi Shetti</h1>
 <h3 align="center">Analytical and adaptable graduate working as a Data Analyst proficient in SQL, Excel, Streamlit, and Python.</h3>
 
-- 🌱 I’m currently working on my project **Target Analysis using BigQuery for analysis and Looker for visualisation**.
+- 🌱 I’m currently working on  **the 75 days SQL Challenge**.
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/AditiShetti)
 

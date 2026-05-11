@@ -11,22 +11,6 @@
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/aditi-shetti/)
 
 
-<h1 align="center">Hi 👋, I'm Aditi Shetti</h1>
-
-<h3 align="center">
-Analytical and adaptable graduate working as a Data Analyst proficient in SQL, Excel, Streamlit, and Python.
-</h3>
-
-- 🌱 I’m currently working on **the 75 Days SQL Challenge**
-
-- 👨‍💻 All of my projects are available at:
-  <a href="https://github.com/AditiShetti">GitHub</a>
-
-- 📝 Check out my portfolio:
-  <a href="https://www.datascienceportfol.io/shettiaditi9060">Portfolio</a>
-
-- 📫 Reach me on
-  <a href="https://www.linkedin.com/in/aditi-shetti/">LinkedIn</a>
 
 <br>
 

@@ -15,55 +15,34 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60"/>
-  </a>
 
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="60" height="60"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
 
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" height="60"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/>
 
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="60" height="60"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45"/>
 
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="60" height="60"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" width="45" height="45"/>
 
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60" height="60"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="45" height="45"/>
 
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" height="60"/>
-  </a>
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="45" height="45"/>
 
-  <a href="https://seaborn.pydata.org/" target="_blank">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60" height="60"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"/>
 
-  <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="60" height="60"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
 
-  <a href="https://streamlit.io/" target="_blank">
-    <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="60" height="60"/>
-  </a>
+  <img src="https://cdn.worldvectorlogo.com/logos/snowflake-6.svg" width="45" height="45"/>
 
-  <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://img.icons8.com/color/96/power-bi.png" width="60" height="60"/>
-  </a>
+  <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" width="45" height="45"/>
 
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="60"/>
-  </a>
+  <img src="https://www.vectorlogo.zone/logos/looker/looker-icon.svg" width="45" height="45"/>
+
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="45" height="45"/>
+
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="45" height="45"/>
+
 </p>
-
 ---
 
 
